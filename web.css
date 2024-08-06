@@ -1,0 +1,24 @@
+body{
+    background-image: url("avatar-02.jpg");
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+button {
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #320be1; 
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ab89fa; 
+}
